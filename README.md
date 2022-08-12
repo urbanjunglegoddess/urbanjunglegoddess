@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urbanjunglegoddess
 - 👀 I’m interested in lot of different things
 - 🌱 I’m currently learning html, css, javascript,sql and php
-- 💞️ I’m looking to collaborate on afor-diaspora projects
+- 💞️ I’m looking to collaborate on afro-diaspora projects
 - 📫 How to reach me omegedhunter@gmail.com
 
 <!---
