@@ -40,6 +40,7 @@
 	* tabs
 	* team
 	* testimonial
+*word cloud
 * plugin
 * media query
 */
@@ -8168,6 +8169,34 @@ a.btn-download:hover i{
 .text-light .separator span:after {
     border-bottom: 1px solid rgba(255, 255, 255, .1);
 }
+
+/* --------------------------------------------------
+	 * word cloud
+	 * --------------------------------------------------*/
+#word-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 800px;
+  height: 400px;
+}
+
+.word {
+  font-size: 1rem;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #cc912d;
+  cursor: pointer;
+}
+
+.word:hover {
+  background-color: #43701fff;
+}
+
 
 /* --------------------------------------------------
 	 * plugin
