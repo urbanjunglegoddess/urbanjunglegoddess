@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @urbanjunglegoddess
 - 👀 I’m interested in lot of different things
-- 🌱 I’m currently learning html, css, javascript,sql and php
+- 🌱 I’m currently learning html, css, javascript,sql, r, and python
 - 💞️ I’m looking to collaborate on afro-diaspora projects
 - 📫 How to reach me omegeadhunter@gmail.com
 
